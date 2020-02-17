@@ -1,1 +1,2 @@
-# Workout-App-DB
+# Workout-App
+MERN stack app to replace current workout app.
